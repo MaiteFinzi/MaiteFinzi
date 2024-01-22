@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Programação com o grupo ONE (Oracle Next Education)
 - 👯 Procuro colaborar com os meus colegas iniciantes 
 - 🤍 Toda ajuda será bem vinda!
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 ## 🚀 Tecnologias
 <div>
